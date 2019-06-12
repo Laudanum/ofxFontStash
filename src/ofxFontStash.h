@@ -37,6 +37,7 @@
 #define OFX_FONT_STASH_LINE_HEIGHT_MULT	0.9
 
 #include "ofMain.h"
+#include "utf8.h"
 
 extern "C" {
 	#include "fontstash.h"

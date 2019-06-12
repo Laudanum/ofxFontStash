@@ -58,6 +58,8 @@
 #include <GL/gl.h>
 #endif
 
+#define GL_TEXTURE_LOD_BIAS 0x8501
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
